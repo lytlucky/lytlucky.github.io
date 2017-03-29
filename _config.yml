@@ -1,15 +1,15 @@
 # Site settings
-title: Hanson
+title: YTOTW
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "YTOTW|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://lytlucky.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "YTOTW"
+  email: 1710934694@qq.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: YTOTW
+weibo_username: YTOTW
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: YTOTW
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -34,7 +34,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Shantou
 
 # Defaults for posts
 defaults:
@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "YTOTW"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : YTOTW
   disqus :
-      short_name : hanson
+      short_name : YTOTW
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
